@@ -4,7 +4,12 @@
 )]
 
 use palette::{
-  FromColor, Gradient, IntoColor, Lch, Pixel, Srgb,
+  FromColor,
+  Gradient,
+  IntoColor,
+  Lch,
+  Pixel,
+  Srgb,
 };
 
 fn main() {
