@@ -5,6 +5,14 @@ This repository is an example Tauri application of Color Picker and Grandient di
 
 Please refer to the [Tauri official documentation](https://tauri.studio/docs/getting-started/prerequisites).
 
+### Versions of the tools
+
+Although similar versions would work, but my test was done with the following versions of tools.
+
+* Node.js: `v8.1.0`
+* npm: `v18.1.0`
+* rustc: ` 1.60.0`
+
 ### Install `npm` packages
 
 ```
